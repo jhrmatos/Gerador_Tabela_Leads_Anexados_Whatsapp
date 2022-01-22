@@ -1,0 +1,2 @@
+# Gerador_Tabela_Leads_Anexados_Whatsapp
+ As equipes de vendas lidam com o processo manual de copiar dados de Leads enviados pelo anexo em conversas de WhatsApp. Com os dados copiados, o programa deve pedir ao usuário que os cole na área indicada. Recebendo dados como  Midoriya +55 15 9261-1537 3Tony Filho +55 34 9834-7224 Wend1 +55 48 8818-2682  , o programa deve:  - Separar os dados em uma tabela com duas colunas: REFERIDO e CONTATO. - Salvar a tabela gerada em um arquivo Excel¶ Uso da lib pandas
